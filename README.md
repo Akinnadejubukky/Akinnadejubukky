@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I am Bukola Felicia Akinnadeju
 
-<!--
-**Akinnadejubukky/Akinnadejubukky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a dedicated Javascript Frontend Engineer with an eye for great designs😘. A fast paced learner with an ability to work under minimum supervision. I possess very strong🦾 administrative, management, organization and interpersonal skills with a strong🦾 communicative disposition. I enjoy being challenged, and learning new languages and skills is a major for me, the success of my projects and every organizations I work with is a top priority for me💕.
 
-Here are some ideas to get you started:
+I am open to Fulltime onsite/remote roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my portifolio✔
+- 🌱 I’m currently learning Advanced React and Redux/GraphQL
+- 👯 I’m looking to collaborate on open source projects
+- 🤔 I Learn everyday and I make GOOGLE my bestfriend❤
+- 💬 Ask me about Javascript and how to write good code👌
+- ⚡ Fun fact: I am a software engineer that loves good music🎶
+- 📫 How to reach me: 
+
