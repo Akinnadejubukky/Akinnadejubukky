@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Bukola Felicia Akinnadeju
 
-[LinkedIn](https://www.linkedin.com/in/bukky-akinnadeju)| [Twitter](https://twitter.com/Akinnadejubukky)|
+[LinkedIn](https://www.linkedin.com/in/bukky-akinnadeju) | [Twitter](https://twitter.com/Akinnadejubukky) |
 
 I am a dedicated Javascript Frontend Engineer with an eye for great designs😘. A fast paced learner with an ability to work under minimum supervision. I possess very strong🦾 administrative, management, organization and interpersonal skills with a strong🦾 communicative disposition. I enjoy being challenged, and learning new languages and skills is a major for me, the success of my projects and every organizations I work with is a top priority for me💕.
 
