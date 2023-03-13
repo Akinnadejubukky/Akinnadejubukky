@@ -30,12 +30,12 @@ I am a dedicated DevOps engineer and cloud developer with an eye for great cloud
 
 - 🤔 I’m looking for help with writing Blog Posts :pen:
 
-- :infinity: I love Video games :video_game: and Playing chess :chess_pawn:  in my spare time.- 🤔 I Learn everyday and GOOGLE is my bestfriend❤
+- :infinity: I love Video games :video_game: and Playing chess :chess_pawn:  in my spare time.
 - 💬 Ask me about DevOps and cloud👌
 - ⚡ Fun fact: I am a Devops engineer that loves good music🎶
 - - 🤔 I Learn everyday and GOOGLE is my bestfriend❤
 
-- :mailbox: Kindly reach out to me on [![Linkedin Badge](https://img.shields.io/badge/--blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bukky-akinnadeju/)[Bukola](mailto:bukky.akinnadeju17@gmail.com)
+- :mailbox: Kindly reach out to me on [![Linkedin Badge](https://img.shields.io/badge/--blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bukky-akinnadeju/), or [Bukola](mailto:bukky.akinnadeju17@gmail.com)
 
 ---
 
@@ -66,9 +66,9 @@ I am a dedicated DevOps engineer and cloud developer with an eye for great cloud
 ### :fire: My Stats
 
 <div id="stats" align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=bukky.akinnadeju17@gmail.com&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bukky.akinnadeju17@gmail.com&layout=compact&theme=vision-friendly-dark"/>&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=bukky.akinnadeju17@gmail.com&show_icons=true&theme=radical"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Akinnadejubukky&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akinnadejubukky&layout=compact&theme=vision-friendly-dark"/>&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=Akinnadejubukky&show_icons=true&theme=radical"/>
 </div>
 
 ---
